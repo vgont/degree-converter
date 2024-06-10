@@ -5,7 +5,7 @@ fn main() {
     println!("Choose what do you want to convert:\n");
     println!("1 - Fahrenheit to Celsius");
     println!("2 - Celsius to Fahrenheit");
-    println!("\nType the option followed by the degrees");
+    println!("\nType the option followed by the degree");
     println!("Example: 1 28");
 
     let mut input = String::new();
